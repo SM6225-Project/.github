@@ -1,4 +1,4 @@
-## SM6225 Project
+## <img src="https://raw.githubusercontent.com/SM6225-Project/.github/refs/heads/main/logo.png" width="32" > SM6225 Project
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Maintainer](https://img.shields.io/badge/maintainer-Kultrinhaa-blue)](https://github.com/KultrinhaGihub)
