@@ -6,4 +6,4 @@ If you want to see my local manifest, it's here:
 **[Local Manifest](https://github.com/SM6225-Project/local_manifests)**
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-![Button](![Maintainer](https://img.shields.io/badge/maintainer-Kultrinhaa-blue))
+![Maintainer](https://img.shields.io/badge/maintainer-Kultrinhaa-blue)
