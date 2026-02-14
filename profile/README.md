@@ -7,16 +7,15 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 
 ## Currently hosting
 
-- **AOSPA (Android 15)** common tree for SM6225 – first non-forked repo:  
-  [AOSPA Common tree](https://github.com/SM6225-Project/aospa_device_motorola_sm6225-common)
+- **AOSPA (Android 15)**
 
 ## What I'm working on now
 
 ### **February 2026**
-- Adapting LineageOS device tree (lineage-22.0) to AOSPA for devon, hawao and rhode
+- Adapting LineageOS trees (lineage-22.0) to AOSPA for SM6225
 
 ### **March 2026**
-- Building AOSPA for rhode (think)
+- Building AOSPA for SM6225 (think)
 
 *Last updated: 2026-02-13*
 
