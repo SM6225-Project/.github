@@ -7,12 +7,14 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 
 ## Currently hosting
 
-- **AOSPA (Android 15)**
+- **Kernel source with Rsuntk KernelSU (Android 15 and 16)**
 
 ## What I'm working on now
 
 ### **February 2026**
-- Adapting LineageOS trees (lineage-22.0) to AOSPA for SM6225
+- Adapting LineageOS trees (lineage-22.0) to AOSPA for SM6225 **[✓]**
+- Creating a kernel for LineageOS 22.x and 23.x using Rsuntk KernelSU **[✓]**
+- Creating a kernel for LineageOS 22.x and 23.x using Backslashxx KernelSU
 
 ### **March 2026**
 - Building AOSPA for SM6225 (think)
