@@ -19,7 +19,7 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 ### **March 2026**
 - Building AOSPA for SM6225 (think)
 
-*Last updated: 2026-02-13*
+*Last updated: 2026-02-14*
 
 ## All credits to:
 - [**LineageOS**](https://github.com/LineageOS) team
