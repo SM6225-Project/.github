@@ -7,8 +7,8 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 
 ## Currently hosting
 
-- **AOSPA (Android 15)** device tree for Moto G52 (rhode) – first non-forked repo:  
-  [AOSPA Rhode device tree](https://github.com/SM6225-Project/aospa_device_motorola_rhode)
+- **AOSPA (Android 15)** device tree for Moto G42 (hawao) – first non-forked repo:  
+  [AOSPA Hawao device tree](https://github.com/SM6225-Project/aospa_device_motorola_hawao)
 
 ## What I'm working on now
 
