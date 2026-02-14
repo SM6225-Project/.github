@@ -7,7 +7,7 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 
 ## Currently hosting
 
-- **Kernel source with Rsuntk KernelSU (Android 15 and 16)**
+- Kernel source with Backslashxx KernelSU (Android 15 and 16)
 
 ## What I'm working on now
 
