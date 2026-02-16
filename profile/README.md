@@ -7,7 +7,7 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 
 ## Currently hosting
 
-- Kernel source with Backslashxx KernelSU (Android 15 and 16)
+- GenesisOS experimental
 
 ## What I'm working on now
 
