@@ -17,10 +17,7 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 - Creating a kernel for LineageOS 22.x and 23.x using Backslashxx KernelSU **[✓]**
 - Building GenesisOS (experimental) for Moto G52 (because I'm going to implement Lindroid in this ROM.)
 
-### **March 2026**
-- Building AOSPA for SM6225 (think)
-
-*Last updated: 2026-02-14 at 7:12:25 AM*
+*Last updated: 2026-02-16 at 2:36:00 AM*
 
 ## All credits to:
 - [**LineageOS**](https://github.com/LineageOS) team
