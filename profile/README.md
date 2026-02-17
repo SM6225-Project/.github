@@ -7,7 +7,7 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 
 ## Currently hosting
 
-- GenesisOS experimental
+- PostmarketOS
 
 ## What I'm working on now
 
@@ -15,9 +15,8 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 - Adapting LineageOS trees (lineage-22.0) to AOSPA for SM6225 **[✓]**
 - Creating a kernel for LineageOS 22.x and 23.x using Rsuntk KernelSU **[✓]**
 - Creating a kernel for LineageOS 22.x and 23.x using Backslashxx KernelSU **[✓]**
-- Building GenesisOS (experimental) for Moto G52 (because I'm going to implement Lindroid in this ROM.)
 
-*Last updated: 2026-02-16 at 2:36:00 AM*
+*Last updated: 2026-02-17 at 5:14:00 AM*
 
 ## All credits to:
 - [**LineageOS**](https://github.com/LineageOS) team
