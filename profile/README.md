@@ -7,7 +7,7 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 
 ## Currently hosting
 
-- PostmarketOS
+- Creating rksu/bksu_kernel_motorola_sm6225 (again)
 
 ## What I'm working on now
 
@@ -16,7 +16,7 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 - Creating a kernel for LineageOS 22.x and 23.x using Rsuntk KernelSU **[✓]**
 - Creating a kernel for LineageOS 22.x and 23.x using Backslashxx KernelSU **[✓]**
 
-*Last updated: 2026-02-17 at 5:14:00 AM*
+*Last updated: 2026-02-17 at 9:51:00 PM*
 
 ## All credits to:
 - [**LineageOS**](https://github.com/LineageOS) team
