@@ -7,7 +7,8 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 
 ## Currently hosting
 
-- Creating rksu/bksu_kernel_motorola_sm6225 (again)
+- Modifying things in the postmarket_kernel_motorola_sm6225
+- Trying to make PostmarketOS bootable for rhode (I'll probably fail)
 
 ## What I'm working on now
 
