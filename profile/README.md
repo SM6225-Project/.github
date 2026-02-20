@@ -9,7 +9,11 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 
 - Adapting the LineageOS device tree and common SM6225 for Project Infinity X 3.7
 
-*Last updated: 2026-02-20 at 12:51:10 AM*
+<p align="center">
+ <b>
+  <i>Last updated: 2026-02-20 at 12:58:20 AM<i/>
+  <b/>
+</p>
 
 ## All credits to:
 - [**LineageOS**](https://github.com/LineageOS) team
