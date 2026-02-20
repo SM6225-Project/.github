@@ -7,17 +7,9 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 
 ## Currently hosting
 
-- Modifying things in the postmarket_kernel_motorola_sm6225
-- Trying to make PostmarketOS bootable for rhode (I'll probably fail)
+- Adapting the LineageOS device tree and common SM6225 for Project Infinity X 3.7
 
-## What I'm working on now
-
-### **February 2026**
-- Adapting LineageOS trees (lineage-22.0) to AOSPA for SM6225 **[✓]**
-- Creating a kernel for LineageOS 22.x and 23.x using Rsuntk KernelSU **[✓]**
-- Creating a kernel for LineageOS 22.x and 23.x using Backslashxx KernelSU **[✓]**
-
-*Last updated: 2026-02-17 at 9:51:00 PM*
+*Last updated: 2026-02-20 at 12:51:10 AM*
 
 ## All credits to:
 - [**LineageOS**](https://github.com/LineageOS) team
