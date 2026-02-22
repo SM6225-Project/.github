@@ -7,11 +7,11 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 
 ## Currently hosting
 
-- Adapting the LineageOS device tree and common SM6225 for Project Infinity X 3.7
+- Reviving a ROM called GenesisOS, named GenesisOS Community Edition
 
 <p align="center">
  <b>
-  <i>Last updated: 2026-02-20 at 1:00:00 AM</i>
+  <i>Last updated: 2026-02-22 at 12:51:15 AM</i>
  </b>
 </p>
 
