@@ -7,11 +7,11 @@ Only in a repository that has the device tree of **devon**, **hawao** and **rhod
 
 ## Currently hosting
 
-- Reviving a ROM called GenesisOS, named GenesisOS Community Edition (credits to GenesisOS team)
+- Nothing
 
 <p align="center">
  <b>
-  <i>Last updated: 2026-02-22 at 12:51:50 AM</i>
+  <i>Last updated: 2026-03-02 at 2:20:00 AM</i>
  </b>
 </p>
 
