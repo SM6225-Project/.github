@@ -5,16 +5,6 @@
 
 Only in a repository that has the device tree of **devon**, **hawao** and **rhode**, and sm6225-common of outdated ROMs (Ex: GenesisOS)
 
-## Currently hosting
-
-- Nothing
-
-<p align="center">
- <b>
-  <i>Last updated: 2026-03-02 at 2:20:00 AM</i>
- </b>
-</p>
-
 ## All credits to:
 - [**LineageOS**](https://github.com/LineageOS) team
 - Me 👍
