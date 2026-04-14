@@ -10,7 +10,7 @@ Just a personal hobby that includes the device tree of **devon**, **hawao**, **r
 
 ## All credits to:
 - [**LineageOS**](https://github.com/LineageOS) team ❤️
-- [**MakotoNaegi-thh**](https://github.com/FlorisDT) guam maintainer ❤️
+- [**FlorisDT**](https://github.com/FlorisDT) guam maintainer ❤️
 - Me 👍 (**Kultrinhaa_**)
 
 If you want to see my local manifest, it's here:
